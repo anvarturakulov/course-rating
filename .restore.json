@@ -1,0 +1,7 @@
+    {
+        "stylelint": "^15.10.3",
+        "stylelint-config-standard": "^34.0.0",
+        "stylelint-order": "^4.1.0",
+        "stylelint-order-config-standard": "^0.1.3"
+    }
+   

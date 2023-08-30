@@ -1,0 +1,19 @@
+.p{
+    font-style: normal;
+    font-weight: 400;
+}
+
+.size-s{
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.size_m{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.size_l {
+    font-size: 18px;
+    line-height: 29px;
+}

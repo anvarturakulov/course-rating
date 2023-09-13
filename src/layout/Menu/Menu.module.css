@@ -30,6 +30,7 @@
     color: var(--gray-dark);
     font-size: 12px;
     line-height: 16px;
+    color: red;
 }
 
 .secondBlock{
@@ -37,6 +38,14 @@
    margin-left: 12px;
    padding-left: 32px;
    border-left: 1px solid #DFDFDF; 
+}
+
+.secondLevelBlock{
+    display: none;
+}
+
+.secondLevelBlockOpened{
+    display: block;
 }
 
 .secondLevelBlockOpened:last-child {
@@ -56,4 +65,5 @@
 .thirdLevelActive,
 .thirdLevel:hover{
     color: var(--primary);
+    font-weight: 600;
 }

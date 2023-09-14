@@ -7,7 +7,7 @@
 }
 
 .wrapper{
-    margin-top: 40px;
+    /* margin-top: 40px; */
 }
 
 .hhTitle{
@@ -16,4 +16,29 @@
     align-items: baseline;
     justify-items: left;
     gap: 20px;
+}
+
+.seo h1 {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    margin: 0;
+}
+
+.seo h2 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.seo h3 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    margin: 0;
 }

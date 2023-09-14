@@ -1,0 +1,19 @@
+.advantage{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    gap: 10px 40px;
+    margin-bottom: 30px;
+    /* align-items: center; */
+}
+
+.title{
+    align-self: center;
+    font-weight: 600;
+}
+
+.vline{
+    border: none;
+    border-left: 1px solid var(--gray-light);
+    /* width: 2px; */
+    /* align-items: center; */
+}

@@ -4,10 +4,7 @@
     align-items: baseline;
     justify-items: left;
     gap: 20px;
-}
-
-.wrapper{
-    /* margin-top: 40px; */
+    margin-bottom: 30px;
 }
 
 .hhTitle{
@@ -41,4 +38,10 @@
     line-height: 27px;
     letter-spacing: 0em;
     margin: 0;
+}
+
+@media screen and (max-width: 640px) {
+    .title{
+        grid-template-columns: auto 1fr;
+    }
 }
